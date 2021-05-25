@@ -1,6 +1,5 @@
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunWonOh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunWonOh&hide=tex,html&layout=compact&theme=radical)](https://github.com/JunWonOh/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JunWonOh&repo=github-readme-stats&theme=radical)](https://github.com/JunWonOh/github-readme-stats)
 <!--
 **JunWonOh/JunWonOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
